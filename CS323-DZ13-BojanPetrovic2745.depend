@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1566075406 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/main.cpp
+	<iostream>
+	<string>
+	"Kalkulator.h"
+	"ImeArtiklaNijeValidnoException.h"
+
+1566066632 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/src/Kalkulator.cpp
+	"Kalkulator.h"
+
+1566067359 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/include/Kalkulator.h
+	"NegativanBrojException.h"
+	"DeljenjeSaNulomException.h"
+
+1566064807 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/src/NegativanBrojException.cpp
+	"NegativanBrojException.h"
+
+1566064984 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/include/NegativanBrojException.h
+	<exception>
+	<iostream>
+
+1566066597 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/src/DeljenjeSaNulomException.cpp
+	"DeljenjeSaNulomException.h"
+
+1566066376 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/include/DeljenjeSaNulomException.h
+	<iostream>
+
+1566068888 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/src/PrehrambeniProizvod.cpp
+	"PrehrambeniProizvod.h"
+
+1566068869 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/include/PrehrambeniProizvod.h
+	<iostream>
+
+1566068910 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/include/ImeArtiklaNijeValidnoException.h
+	"PrehrambeniProizvod.h"
+	<iostream>
+	<string>
+
+1566069336 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ13-BojanPetrovic2745/src/ImeArtiklaNijeValidnoException.cpp
+	"ImeArtiklaNijeValidnoException.h"
+	"PrehrambeniProizvod.h"
+
